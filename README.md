@@ -1,4 +1,5 @@
-# Rewards API – Spring Boot Application
+# customer-rewards-api
+Customer Rewards API - For processing customers rewards 
 
 ## 📌 Overview
 
@@ -207,3 +208,4 @@ Janakiram
 Senior Java Developer
 
 ---
+
